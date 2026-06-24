@@ -8,7 +8,6 @@ You will be provided the following by email:
 
 - A development store URL and password
 - A Figma URL
-- A `shopify.theme.toml` file or environment details to configure it
 - A GitHub repository URL
 - Any additional access or setup instructions
 
@@ -26,18 +25,8 @@ Both sections should be built for use in the Shopify theme editor and should fee
 ## Setup
 
 1. Clone the GitHub repository provided in the email.
-2. Configure your local `shopify.theme.toml` using the provided development store details.
-3. Start the theme locally using either of the following:
-
-   ```sh
-   npm run dev
-   ```
-
-   or
-
-   ```sh
-   shopify theme dev --environment main
-   ```
+2. Configure your local `shopify.theme.toml`.
+3. Start the theme locally using Shopify CLI
 
 ## Requirements
 
