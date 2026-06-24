@@ -1,0 +1,19 @@
+{
+  "name": "Historic Prints",
+  "version": "0.0.0",
+  "description": "Developer Theme",
+  "main": "./scripts/index.js",
+  "scripts": {
+    "dev": "clear && shopify theme dev --environment main"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/historicprints/developer-1-2cwvd6oo.git"
+  },
+  "author": "Historic Prints",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/historicprints/developer-1-2cwvd6oo/issues"
+  },
+  "homepage": "https://github.com/historicprints/developer-1-2cwvd6oo#readme"
+}
