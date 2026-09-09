@@ -9,6 +9,55 @@
  */
 {
   "sections": {
+    "1788980396c1334394": {
+      "type": "_blocks",
+      "blocks": {
+        "foxsell_bundles_plus_volume_widget_wUAmQT": {
+          "type": "shopify://apps/foxsell-bundles-plus/blocks/volume_widget/60c4cb4e-60f4-4416-88a1-38594a8008f2",
+          "settings": {
+            "product": "",
+            "add_to_cart_text": "Add to Cart",
+            "add_to_cart_confirmation_text": "Added to Cart",
+            "disclaimer_text": "Bundle is visible on the checkout",
+            "discount_suffix": "off",
+            "price_suffix": "",
+            "redirect_to_cart": true,
+            "show_currency_code": true
+          }
+        }
+      },
+      "block_order": [
+        "foxsell_bundles_plus_volume_widget_wUAmQT"
+      ],
+      "settings": {
+        "content_direction": "column",
+        "vertical_on_mobile": true,
+        "horizontal_alignment": "flex-start",
+        "vertical_alignment": "center",
+        "align_baseline": false,
+        "horizontal_alignment_flex_direction_column": "flex-start",
+        "vertical_alignment_flex_direction_column": "center",
+        "gap": 12,
+        "section_width": "page-width",
+        "section_height": "",
+        "section_height_custom": 50,
+        "background_media": "none",
+        "background_color": "",
+        "video_position": "cover",
+        "background_image_position": "cover",
+        "toggle_overlay": false,
+        "overlay_color": "#00000026",
+        "overlay_style": "solid",
+        "gradient_direction": "to top",
+        "border": "none",
+        "border_width": 1,
+        "border_opacity": 100,
+        "border_color": "",
+        "border_radius": 0,
+        "padding-block-start": 0,
+        "padding-block-end": 0
+      }
+    },
     "hero_iLBwPd": {
       "type": "hero",
       "blocks": {
@@ -755,62 +804,13 @@
         "padding-block-start": 48,
         "padding-block-end": 64
       }
-    },
-    "1788980396c1334394": {
-      "type": "_blocks",
-      "blocks": {
-        "foxsell_bundles_plus_volume_widget_wUAmQT": {
-          "type": "shopify://apps/foxsell-bundles-plus/blocks/volume_widget/60c4cb4e-60f4-4416-88a1-38594a8008f2",
-          "settings": {
-            "product": "",
-            "add_to_cart_text": "Add to Cart",
-            "add_to_cart_confirmation_text": "Added to Cart",
-            "disclaimer_text": "Bundle is visible on the checkout",
-            "discount_suffix": "off",
-            "price_suffix": "",
-            "redirect_to_cart": true,
-            "show_currency_code": true
-          }
-        }
-      },
-      "block_order": [
-        "foxsell_bundles_plus_volume_widget_wUAmQT"
-      ],
-      "settings": {
-        "content_direction": "column",
-        "vertical_on_mobile": true,
-        "horizontal_alignment": "flex-start",
-        "vertical_alignment": "center",
-        "align_baseline": false,
-        "horizontal_alignment_flex_direction_column": "flex-start",
-        "vertical_alignment_flex_direction_column": "center",
-        "gap": 12,
-        "section_width": "page-width",
-        "section_height": "",
-        "section_height_custom": 50,
-        "background_media": "none",
-        "background_color": "",
-        "video_position": "cover",
-        "background_image_position": "cover",
-        "toggle_overlay": false,
-        "overlay_color": "#00000026",
-        "overlay_style": "solid",
-        "gradient_direction": "to top",
-        "border": "none",
-        "border_width": 1,
-        "border_opacity": 100,
-        "border_color": "",
-        "border_radius": 0,
-        "padding-block-start": 0,
-        "padding-block-end": 0
-      }
     }
   },
   "order": [
+    "1788980396c1334394",
     "hero_iLBwPd",
     "product_list_EDUBdR",
     "media_with_content_LfPdEJ",
-    "collection_list_xpBxCm",
-    "1788980396c1334394"
+    "collection_list_xpBxCm"
   ]
 }
