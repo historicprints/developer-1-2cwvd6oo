@@ -20,7 +20,7 @@
             "add_to_cart_confirmation_text": "Added to Cart",
             "disclaimer_text": "Bundle is visible on the checkout",
             "discount_suffix": "off",
-            "price_suffix": "",
+            "price_suffix": "200",
             "redirect_to_cart": true,
             "show_currency_code": true
           }
