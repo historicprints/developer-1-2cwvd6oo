@@ -15,7 +15,7 @@
         "foxsell_bundles_plus_volume_widget_wUAmQT": {
           "type": "shopify://apps/foxsell-bundles-plus/blocks/volume_widget/60c4cb4e-60f4-4416-88a1-38594a8008f2",
           "settings": {
-            "product": "",
+            "product": "the-3p-fulfilled-snowboard",
             "add_to_cart_text": "Add to Cart",
             "add_to_cart_confirmation_text": "Added to Cart",
             "disclaimer_text": "Bundle is visible on the checkout",
